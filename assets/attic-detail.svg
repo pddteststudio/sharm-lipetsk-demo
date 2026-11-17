@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="960" height="630" viewBox="0 0 960 630" role="img"><defs>
+ <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F6F0E7"/><stop offset=".52" stop-color="#E8DDCE"/><stop offset="1" stop-color="#D8C8B6"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E8F1EF"/><stop offset=".5" stop-color="#C2D5D1"/><stop offset="1" stop-color="#A5B7A6"/></linearGradient>
+ <linearGradient id="silk" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#755C51"/><stop offset=".14" stop-color="#AD9180"/><stop offset=".29" stop-color="#E0C5AE"/><stop offset=".43" stop-color="#96786A"/><stop offset=".56" stop-color="#D2B8A4"/><stop offset=".73" stop-color="#907164"/><stop offset=".89" stop-color="#C7AC96"/><stop offset="1" stop-color="#70584E"/></linearGradient>
+ <linearGradient id="linen" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#B9B4A0"/><stop offset=".18" stop-color="#E4E1D5"/><stop offset=".34" stop-color="#F5F1E9"/><stop offset=".5" stop-color="#CDC9BC"/><stop offset=".7" stop-color="#F1EBE1"/><stop offset=".88" stop-color="#B7B7A5"/><stop offset="1" stop-color="#A2A596"/></linearGradient>
+ <linearGradient id="shadows" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#FFF9EE" stop-opacity=".06"/><stop offset="1" stop-color="#5C4C40" stop-opacity=".4"/></linearGradient>
+ <linearGradient id="rug" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E4D4C2"/><stop offset="1" stop-color="#C8B6A4"/></linearGradient>
+ <radialGradient id="light"><stop stop-color="#FFFCE9" stop-opacity=".85"/><stop offset="1" stop-color="#FFF5E7" stop-opacity="0"/></radialGradient>
+ <filter id="soft"><feGaussianBlur stdDeviation="12"/></filter><filter id="shadow"><feGaussianBlur stdDeviation="18"/></filter>
+ <pattern id="weave" width="6" height="6" patternUnits="userSpaceOnUse"><path d="M0 0h6M0 3h6" stroke="#FFF" stroke-opacity=".13" stroke-width=".6"/><path d="M0 0v6M3 0v6" stroke="#4B423B" stroke-opacity=".1" stroke-width=".7"/></pattern>
+ </defs><rect width="960" height="630" fill="#E6E0D5"/><path d="M0 0h960v84l-320-71L0 315Z" fill="#D7C8B6"/><path d="M30 317 633 49 909 99" stroke="#907E6C" stroke-width="12" fill="none"/>
+<path d="M93 311 553 106 553 468 96 607Z" fill="#F2EEE5"/><path d="M114 328 527 143V452L114 569Z" fill="#C5D5D1"/><path d="M160 310l305-133" stroke="#FDF6EA" stroke-width="14"/><path d="M325 237v295" stroke="#FAF8EE" stroke-width="14"/><path d="M114 333 527 148" stroke="#7A6556" stroke-width="10"/>
+<path d="M120 329 210 288 207 554 122 583Z" fill="url(#silk)"/><path d="M447 185 521 151V478l-74 21Z" fill="url(#silk)"/>
+<path d="M214 289 441 190v324L210 575Z" fill="#FFFEF7" opacity=".37"/>
+<path d="M120 324 210 286l-5 65-83 29M448 189l72-35v70l-69 26" fill="#B39784" opacity=".25"/>
+<path d="M583 482 892 384 906 588 593 630Z" fill="#BFAEA0"/><path d="M593 489 885 397 887 423 593 515Z" fill="#F4EEE5"/>
+<path d="m666 202 9-24 9 24 24 9-24 9-9 24-9-24-24-9Z" fill="#AA9982"/>
+<text x="617" y="319" font-family="Georgia,serif" font-size="43" fill="#6C594E">Мансарда</text><text x="621" y="357" font-family="Arial,sans-serif" font-size="20" letter-spacing="3" fill="#937E6B">СЛОЖНАЯ ГЕОМЕТРИЯ</text></svg>
